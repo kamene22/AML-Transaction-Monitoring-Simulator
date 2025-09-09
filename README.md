@@ -25,7 +25,9 @@ The project demonstrates how **rule-based checks** and **anomaly detection model
     - 🚩 Suspicious Transactions by Location  
     - 🚩 Suspicious Transactions Over Time  
   - KPI metrics and suspicious transaction table.  
-  - 📄 Export a detailed PDF report of flagged activities.  
+  - 📄 Export a detailed PDF report of flagged activities.
+   - **Streamlit Deployed link**
+     - https://aml-transaction-monitoring-simulator.streamlit.app/
 
 ---
 
